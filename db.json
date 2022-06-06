@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Carlos Passos",
+      "username": "carlos",
+      "email": "carlos@serrabits.com.br",
+      "password": "senha123",
+      "image": "https://lh3.googleusercontent.com/a-/AOh14Gh_Qm60X7g8b3Lc0630QIE923uVDfoazNvYfcsO=s83-c-mo"
+    },
+    {
+      "email": "sergio@serrabits.com.br",
+      "username": "Sérgio Gabriel",
+      "password": "senha123",
+      "image": "https://as2.ftcdn.net/v2/jpg/02/19/70/25/1000_F_219702545_nb5bzV8qvnaWS0TSZ5avxf57c2sOGjIt.jpg",
+      "id": 2
+    },
+    {
+      "email": "sergio@serrabits.com.br",
+      "username": "Sérgio Gabriel",
+      "password": "senha123",
+      "image": "https://as2.ftcdn.net/v2/jpg/02/19/70/25/1000_F_219702545_nb5bzV8qvnaWS0TSZ5avxf57c2sOGjIt.jpg",
+      "id": 3
+    },
+    {
+      "email": "paulo@serrabits.com.br",
+      "username": "Paulo Goes",
+      "password": "senha123",
+      "image": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg",
+      "id": 4
+    },
+    {
+      "email": "japa@serrabits.com.br",
+      "username": "japa",
+      "password": "senha123",
+      "image": "https://criadoresid.com/wp-content/uploads/2016/10/Captura-de-Tela-2020-03-16-a%CC%80s-13.59.50.png",
+      "id": 5
+    }
+  ],
+  "posts": []
+}
